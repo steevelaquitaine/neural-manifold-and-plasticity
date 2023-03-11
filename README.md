@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 # Run scripts
 
-## Figure 2 
+## Figure 2
 
 Move to the clone directory (e.g., in my home directory):
 
@@ -57,7 +57,7 @@ Reproduce figure 2 (.svg files stored in figures/fig2/):
 python fig2_plots.py
 ```
 
-## Figure 3
+## Figure 3
 
 run simulation figure 3 (takes 10 min):
 
@@ -71,7 +71,7 @@ Reproduce figure 3 (.svg files stored in figures/fig4/):
 python fig3_plots.py
 ```
 
-## Figure 4
+## Figure 4
 
 Run simulation for figure 4 (takes 10 min):
 
